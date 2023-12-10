@@ -1,2 +1,2 @@
-# nahom-d54 githu io
+# nahom-d54 github.io
 [Country Json List](/country.json)
